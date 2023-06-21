@@ -3,10 +3,10 @@ print('Helllo World.......') #using single ' ' or doble " "
 print("using double quotes")
 print("my father's name") #either by double " " or \
 print('my pet\'s name') # \ ignore the single ' 
-message="Hello World"
+
 
 #---------------STRING -------------------------------
-
+message="Hello World"
 print(message+" using string vrible") #using string vrible
 # finding length of string  using len() inbuilt function
 print(len(message))
@@ -39,4 +39,4 @@ print(dir(message))
 #help method
 print(help(str))
 #for specific method
-print(help(str.len))
+print(help(str))
