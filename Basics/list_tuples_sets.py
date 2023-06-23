@@ -77,4 +77,14 @@ print(course_str)
 course_lst=course_str.split(' - ')
 print(course_lst)
 
-#Tuples - Immutable (not changeable)
+# Tuples - Immutable (not changeable)
+# Tuples are used to store multiple items in a single variable
+# A tuple is a collection which is ordered and unchangeable
+
+tup1=("Anmol","Radhika","Shubham","Sneha")
+print(tup1)
+
+# A tuple can contain different data types
+
+tup2=("Anmol",2107,2.410)
+print(tup2)
