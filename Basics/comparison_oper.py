@@ -6,6 +6,7 @@ else:
     print("It' a mo hot day")
 
 # Task
+
 name_chr_length=16
 
 if name_chr_length<3:

@@ -10,4 +10,4 @@ print(is_good)
 pat_name='John Smith'
 age=28
 is_new=True
-print("Patient name is "+pat_name 'and he is '+age " years old")
+

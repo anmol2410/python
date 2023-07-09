@@ -3,4 +3,4 @@ name=input("What is your name? ")
 # Exercise
 
 fav_col=input("What is your fav. color? ")
-print(name + ' likes ' + fav_col)
+print(name + ' likes' + fav_col)

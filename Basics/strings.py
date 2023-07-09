@@ -11,5 +11,5 @@ print(name[1:-1])
 first='john'
 last='smith'
 message=first+' [' +last +'] is a coder' # unformtted string
-msg=f'{first} [{last}] is a coder'
+msg=f'{first} [{last}] is a coder' # f' ' -> formatted string
 print(msg)
